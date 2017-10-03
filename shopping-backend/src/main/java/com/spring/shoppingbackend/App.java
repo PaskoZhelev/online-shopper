@@ -1,4 +1,4 @@
-package com.spring.shopping_backend;
+package com.spring.shoppingbackend;
 
 /**
  * Hello world!
